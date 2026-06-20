@@ -23,10 +23,14 @@ Analyze a bank telemarketing campaign to identify factors influencing client sub
 - Microsoft Word
 
 ## 📈 Dashboard Preview
-![Dashboard](bank_marketing_dashboard.png)
+![Power BI Dashboard](dashboard.png)
 
+## 💡 Business Recommendations
+1. Focus campaigns in March, September and October for better conversion rates
+2. Target retired and student client segments more specifically
+3. Train agents to improve call quality and engagement duration
+4. Avoid mass calling in May without better targeting strategy
+5. Use economic indicators (euribor3m, emp.var.rate) to time campaigns better
 
-## 📁 Files
-- `bank_marketing_analysis.ipynb` - Jupyter Notebook
-- `bank_marketing_dashboard.pbix` - Power BI Dashboard
-- `bank_marketing_report.docx` - Word Report
+## Author
+Vaishnavi
